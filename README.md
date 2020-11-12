@@ -19,7 +19,7 @@ Scroll through the page using mouse or arrow/PGup-Pgdwn keys.
 Nav links at the top link to corresponding sections within the page. 
 If images break, alt text is provided for accessibility. 
 
-![alt text](assets/images/Capture.png)
+![Screen cap of live site](assets/images/Capture.png)
 
 Credits 
 Carleton Trinity Bootcamp 
